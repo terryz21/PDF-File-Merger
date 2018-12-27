@@ -1,5 +1,5 @@
 # PDF-File-Merger
-This is my personal project which is a simple desktop PDF file merger application written in Java. Currently, it has a very basic GUI :( developed using Swing and supports the following functionalities: 
+This is my personal project which is a simple desktop PDF file merger application written in Java. Currently, it has a very basic GUI :( Developed using Java Swing GUI and supports the following functionalities: 
 
 1. Add Files - allows users to choose and upload pdf file on their computers to merge into one pdf file
 2. Remove    - allows users to remove selected pdf files which they previously added to be merged with other pdf files
